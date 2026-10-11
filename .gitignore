@@ -1,0 +1,13 @@
+# OS and editor files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# Temporary and private drafts
+*.tmp
+*.bak
+.env
+.env.*
+!.env.example
