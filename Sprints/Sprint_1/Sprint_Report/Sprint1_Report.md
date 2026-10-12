@@ -1,8 +1,7 @@
 # Sprint 1 Report — Planning and Feature Definition
 
-- Sprint dates: [TODO]
-- Team members: [TODO]
-- Reviewer: [TODO]
+- Sprint dates: October 11
+- Team members: Khoa Ta, Jayden Blewett, Iyke Odum
 - Status: Planning only; no implementation was supplied or performed.
 
 ## Sprint goal
@@ -45,22 +44,3 @@ The icon package was not specified. The planning notes list options for a free-d
 ## Challenges and changes
 
 The main constraint is the absence of a codebase or implementation handoff for continuing an existing product. The work is therefore framed as requirements and design planning. Product details that were not supplied remain marked as questions or proposals.
-
-## Follow-up actions
-
-| Action | Owner | Due date |
-|---|---|---|
-| Confirm client users, workflows, and expected drawing use cases | [TODO] | [TODO] |
-| Confirm whether the first release needs shared live drawing or individual saved drawings | [TODO] | [TODO] |
-| Select icon source and final toolbar symbol | [TODO] | [TODO] |
-| Confirm persistence format, retention, and permissions | [TODO] | [TODO] |
-| Obtain project repository / implementation handoff if continuation is expected | [TODO] | [TODO] |
-| Agree on sprint dates, attendees, and review date | [TODO] | [TODO] |
-
-## Retrospective
-
-This is a planning report prepared before implementation; a retrospective should be completed after the team reviews the plan.
-
-- What went well: [TODO]
-- What to improve: [TODO]
-- Actions for next sprint: [TODO]
