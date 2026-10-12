@@ -1,8 +1,8 @@
 # Sprint 1 demo status — Planning only
 
-- Demo date: [TODO]
-- Recording / viewing link: Not available
-- Presenter(s): [TODO]
+- Demo date: October 11
+- Recording / viewing link: (https://youtu.be/iNJiaEyFFiM)
+- Presenter(s): Khoa Ta
 - Status: No software demo; no implementation was provided.
 
 ## Review walkthrough
