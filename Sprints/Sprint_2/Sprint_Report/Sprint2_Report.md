@@ -2,7 +2,7 @@
 
 ## YouTube Link for the Sprint 2 Video
 
-Recording pending. [Add the unlisted YouTube link after recording.]
+https://youtu.be/0yQx_yXZ9Yc
 
 ## What's New (User Facing)
 
