@@ -4,6 +4,10 @@
 
 https://youtu.be/0yQx_yXZ9Yc
 
+## Code Repository Link
+
+https://github.com/KhoaTa06/WSU-GROUP-COORD-Free-Draw
+
 ## What's New (User Facing)
 
 - Draw and erase freehand marks, add lines and shapes, and enter or edit text on the canvas. Undo and redo edits while working.
